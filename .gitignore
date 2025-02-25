@@ -1,3 +1,4 @@
 *.csv
 *.pem
 *.txt
+!requirements.txt
